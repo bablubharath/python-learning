@@ -53,11 +53,11 @@ First name is empty
    python --version
    ```
 
-2. Save the script (both tasks) into a `.py` file, for example: `script.py`
+2. Save the scripts (both tasks) into a `.py` file, for example: `task1.py` and `task2.py`
 
-3. Run the script using:
+3. Run the scripts using:
    ```bash
-   python script.py
+   python task1.py and python task2.py
    ```
 
 4. Follow the on-screen input prompts.
